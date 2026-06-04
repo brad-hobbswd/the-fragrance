@@ -425,55 +425,15 @@ A Fragrance Before Heaven
 
 </section>
 
-<footer class="footer">
+<div id="footer"></div>
 
-<div class="footer-logo">
-
-The Fragrance
-
-</div>
-
-<p class="footer-tagline">
-
-Some offerings cannot be measured by money.
-
-Some worship costs everything.
-
-</p>
-
-<div class="footer-links">
-
-<a href="contents.html">
-Contents
-</a>
-
-<a href="chapter1.html">
-Begin Reading
-</a>
-
-<a href="index.html">
-Home
-</a>
-
-</div>
-
-<div class="divider"></div>
-
-<div class="copyright">
-
-© Bradley Hobbs
-
-<br><br>
-
-The fragrance filled the room.
-
-<br><br>
-
-Then the fragrance filled the world.
-
-</div>
-
-</footer>
+<script>
+fetch("footer.html")
+.then(response => response.text())
+.then(data => {
+document.getElementById("footer").innerHTML = data;
+});
+</script>
 
 </body>
 </html>
