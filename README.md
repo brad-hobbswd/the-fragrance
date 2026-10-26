@@ -1,50 +1,30 @@
-# The Fragrance
+# The Fragrance | Bradley Hobbs
 
-A Christian fiction journey of surrender, worship, healing, and devotion.
+A Christian devotional or teaching project using fragrance as an image for worship, character, witness, and the influence a life leaves behind.
 
-*"The fragrance filled the room. Then the fragrance filled the world."*
+## Live Website
+https://brad-hobbswd.github.io/the-fragrance/
 
-## About
+## Project Overview
+A Christian devotional or teaching project using fragrance as an image for worship, character, witness, and the influence a life leaves behind.
 
-The Fragrance by Bradley Hobbs is a story inspired by the woman with the alabaster box and the beauty of worship poured out before Jesus.
+## Pages
+- `chapter1.html`
+- `chapter2.html`
+- `chapter3.html`
+- `chapter4.html`
+- `chapter5.html`
+- `chapter6.html`
+- `contents.html`
 
-Inside a quiet loft above city streets, Elena arrives carrying years of disappointment, grief, hidden wounds, and dreams that never unfolded as expected.
+## Technology
+Static website hosted through GitHub Pages using HTML pages and supporting CSS, JavaScript, and assets.
 
-Others see waste.
+## Copyright and Permissions
+Copyright © 2026 Bradley Hobbs. All rights reserved.
 
-Joshua sees beauty.
+Original writing, product descriptions, website content, branding, visual design, graphics, and source code are protected by copyright. Obtain written permission before copying, republishing, modifying, redistributing, or commercially using original materials, except where applicable law permits otherwise. Product names and third-party materials may be subject to separate rights.
 
-The Fragrance follows a journey through brokenness, surrender, sacrifice, and worship heaven refuses to forget.
-
-## Website
-
-Liive site:
-
-https://brad-hobbswd.github.io/the-fragrance
-
-## Site Structure
-
-index.html  
-contents.html  
-chapter1.html  
-chapter2.html  
-chapter3.html  
-chapter4.html  
-chapter5.html  
-chapter6.html  
-404.html  
-README.md  
-
-## Scripture Inspiration
-
-"For we are unto God a sweet savour of Christ..."
-
-2 Corinthians 2:15
-
-## Author
-
-Bradley Hobbs
-
-Part of the Bradley Hobbs online author collection.
-
-© Bradley Hobbs
+## Search Engine Files
+- [Sitemap](sitemap.xml)
+- [robots.txt](robots.txt)
